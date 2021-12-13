@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Injection Resources
 
-You can use the [editor on GitHub](https://github.com/codeplusmath/injection-resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In Cybersecurity there is no way to know everything about Databases or Networking and their vulnerabilities.  
+You need to know where to find additional information and detailed steps to safeguard data.  
+Here are some additional resources that are important to be aware of and explore as you are developing your Cybersecurity skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## OWASP Cheat Sheets
 
-### Markdown
+<a href="https://owasp.org/www-community/Injection_Flaws" target="_blank">Injection Flaws</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://owasp.org/www-community/attacks/Command_Injection" target="_blank">OS Command Injection</a>
 
-```markdown
-Syntax highlighted code block
+<a href="https://owasp.org/www-community/attacks/SQL_Injection" target="_blank">SQL Injection</a>
 
-# Header 1
-## Header 2
-### Header 3
+<a href="https://cheatsheetseries.owasp.org/cheatsheets/LDAP_Injection_Prevention_Cheat_Sheet.html" target="_blank">LDAP Injection</a>
 
-- Bulleted
-- List
+The Database Hacker's Handbook: Defending Database Servers
+You can find it at different retailers such as Amazon.com.
 
-1. Numbered
-2. List
+## pentestmonkey
 
-**Bold** and _Italic_ and `Code` text
+<a href="http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet" target="_blank">MSSQL injection cheat sheet</a>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codeplusmath/injection-resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="http://pentestmonkey.net/cheat-sheet/sql-injection/oracle-sql-injection-cheat-sheet" target="_blank">Oracle injection cheat sheet</a>
+ 
+<a href="http://pentestmonkey.net/cheat-sheet/sql-injection/db2-sql-injection-cheat-sheet" target="_blank">DB2 injection cheat sheet</a>
+ 
+<a href="http://pentestmonkey.net/cheat-sheet/sql-injection/postgres-sql-injection-cheat-sheet" target="_blank">Postgres injection cheat sheet</a>
+ 
+<a href="http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet" target="_blank">MySQL injection cheat sheet</a>
