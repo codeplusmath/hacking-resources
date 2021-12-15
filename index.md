@@ -6,7 +6,7 @@ Here are some additional resources that are important to be aware of and explore
 
 ## Google Dork Methods
 
-
+[Dork All Resources](/dork.md)
 
 ## OWASP Cheat Sheets
 
