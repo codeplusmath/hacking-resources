@@ -4,6 +4,10 @@ In Cybersecurity there is no way to know everything about Databases or Networkin
 You need to know where to find additional information and detailed steps to safeguard data.  
 Here are some additional resources that are important to be aware of and explore as you are developing your Cybersecurity skills.
 
+## Google Dork Methods
+
+
+
 ## OWASP Cheat Sheets
 
 <a href="https://owasp.org/www-community/Injection_Flaws" target="_blank">Injection Flaws</a>
