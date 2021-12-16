@@ -1,8 +1,6 @@
 # Hacking Resources
 
-In Cybersecurity there is no way to know everything about Databases or Networking and their vulnerabilities.  
-You need to know where to find additional information and detailed steps to safeguard data.  
-Here are some additional resources that are important to be aware of and explore as you are developing your Cybersecurity skills.
+In Cybersecurity there is no way to know everything about Databases or Networking and their vulnerabilities. You need to know where to find additional information and detailed steps to safeguard data. Here are some additional resources that are important to be aware of and explore as you are developing your Cybersecurity skills.
 
 ## Google Dork Methods
 
@@ -22,7 +20,7 @@ Here are some additional resources that are important to be aware of and explore
 The Database Hacker's Handbook: Defending Database Servers
 You can find it at different retailers such as Amazon.com.
 
-## pentestmonkey
+## Penetration Testing
 
 [Example of Penetration Testing Report](https://sansorg.egnyte.com/dl/yNfjHOQix8)
 
