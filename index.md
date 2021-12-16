@@ -1,4 +1,4 @@
-# Injection Resources
+# Hacking Resources
 
 In Cybersecurity there is no way to know everything about Databases or Networking and their vulnerabilities.  
 You need to know where to find additional information and detailed steps to safeguard data.  
@@ -7,6 +7,7 @@ Here are some additional resources that are important to be aware of and explore
 ## Google Dork Methods
 
 [Dork All Resources](/dork.md)
+
 
 ## OWASP Cheat Sheets
 
@@ -22,6 +23,8 @@ The Database Hacker's Handbook: Defending Database Servers
 You can find it at different retailers such as Amazon.com.
 
 ## pentestmonkey
+
+[Example of Penetration Testing Report](https://sansorg.egnyte.com/dl/yNfjHOQix8)
 
 <a href="http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet" target="_blank">MSSQL injection cheat sheet</a>
 
