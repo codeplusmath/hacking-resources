@@ -1,4 +1,4 @@
-# Injection Resources
+# Hacking Resources
 
 In Cybersecurity there is no way to know everything about Databases or Networking and their vulnerabilities.  
 You need to know where to find additional information and detailed steps to safeguard data.  
