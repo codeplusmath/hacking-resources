@@ -33,3 +33,7 @@ You can find it at different retailers such as Amazon.com.
 <a href="http://pentestmonkey.net/cheat-sheet/sql-injection/postgres-sql-injection-cheat-sheet" target="_blank">Postgres injection cheat sheet</a>
  
 <a href="http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet" target="_blank">MySQL injection cheat sheet</a>
+
+## Google Dork
+ 
+<a href="https://github.com/codeplusmath/hacking-resources/blob/gh-pages/dork.md" target="_blank">Google Dork Cheat Sheaat</a>
